@@ -131,10 +131,6 @@ pure-eval==0.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
-PyGeneratePassword==0.1
-Pygments==2.15.1
-PyGraph-DFS==0.1
-PyGraphDFS==0.1
 PyMuPDF==1.22.5
 pyparsing==3.0.9
 PyPDF2==1.26.0
@@ -142,8 +138,6 @@ pypiwin32==223
 PyQt5==5.15.7
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.11.0
-PyRandomNameGenerator==0.1
-PyRemoveDuplicates==0.2
 pyrsistent==0.19.3
 pytesseract==0.3.10
 python-dateutil==2.8.2
